@@ -28,10 +28,10 @@ public class Complex {
         this.imag = imag;
     }
     public String toString(){
-        if(imag>0)
-            return real + " + " + imag + "i";
+        if(imag < 0)
+            return real + " - " + Math.abs(imag) + "i";
         else
-            return real + imag + "i";
+            return real + " + " + imag + "i";
     }
     public Complex Add(Complex b){
         Complex c = new Complex();
