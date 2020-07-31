@@ -38,6 +38,7 @@ class MoveablePoint implements Moveable
 
     @Override
     public void moveDown() {
+
         y = y - ySpeed;
 
     }
