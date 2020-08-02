@@ -1,0 +1,5 @@
+Shipper nh?n don hàng mình có th? giao
+H? th?ng hi?n th? t?a d? c?a ngu?i dùng
+Sau khi dã l?y hàng t? c?a hàng, Shipper xác nh?n dã l?y hàng.
+Sau khi dã d?n di?m h?n, Shipper xác nh?n dã d?n di?m h?n
+Sau khi khách dã thanh toán, Shipper xác nh?n khách dã thanh toán.

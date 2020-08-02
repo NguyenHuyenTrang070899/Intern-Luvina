@@ -4,50 +4,47 @@ package BTVN_B5.Thuat_toan;
 
 public class B6 {
     public static void main(String arg[]) {
-        int a[][] = {{1, 2, 3, 4}, {2, 3, 4, 5}, {-1, 3, -5, 1}, {3, 7, -5, -2}};
-        int dem=0,kt = 0;
-        float b[] = new float[100];
-        float c[] = new float[100];
-        int n = a.length;
-        int m = a[0].length;
-        float h, det=1;
-        for(int i=0;i<n-1;i++)
-        {
-            if(a[i][i]==0)
-            {
-                kt=0;
-                for(int j=0;j<m;j++)
-                    if(a[i][j]!=0)
-                    {
-                        for(int k=0;k<n;k++)
-                        {// Doi cot j voi cot i
-                            c[k]=a[k][i];
-                            a[k][i]=a[k][j];
-                            a[k][j]= (int) c[k];
+        double A[][] = {
+                {0, 1, -1, 3},
+                {0, 2, -1, 3},
+                {0, 3, 2, -1},
+                {0, 3, 1, -1}
+        };
+        double DT = 1;
+        for (int k = 0; k < A.length; k++) {
+            if (A[k][k] == 0) {
+                for (int i = k + 1; i < A.length; i++) {
+
+                    double max = 0;
+                    int temp = 0;
+                    for (int t = k; t < A.length; t++) {
+                        if (max < Math.abs(A[t][k])) {
+                            max = Math.abs(A[t][k]);
+                            temp = t;
                         }
-                        dem++;// dem so lan doi cot
-                        kt++;// Kiem tra xem co so 0 o dong i cot j
-                        break;
                     }
-            }
-            if(kt == 0)
-                System.out.print("0");
-            b[i]=a[i][i];
-            for(int j=0;j<n;j++)
-                a[i][j]= (int) (a[i][j]/b[i]);//tao so 1 o dong i,cot i
-            for(int j=i+1;j<n;j++)
-            {
-                h=a[j][i];
-                for(int k=0;k<n;k++)
-                    a[j][k]= (int) (a[j][k]-h*a[i][k]);//lay dong thu j-h*dong i
+                    if (max == 0) {
+                        System.out.println("DT = 0");
+                        return;
+                    } else {
+                        for (int t = k; t < A.length; t++) {
+                            double tam = A[k][t];
+                            A[k][t] = A[temp][t];
+                            A[temp][t] = tam;
+                        }
+                        DT = -DT;
+                    }
+                    double tmp = A[i][k] / A[k][k];
+                    for (int j = k; j < A.length; j++) {
+                        A[i][j] = A[i][j] - (A[k][j] * tmp);
+                    }
+                }
             }
         }
-        b[n-1]=a[n-1][n-1];
-        for(int i=0;i<n;i++)
-            det=det*b[i];// Nhan cac so da lay ra ngoai dinh thuc
-        if(dem%2==0)
-            System.out.print(det);
-        else
-            System.out.print(-det);
+
+        for (int i = 0; i < A.length; i++) {
+            DT = DT * A[i][i];
+        }
+        System.out.println("ĐT = " + DT);
     }
 }
