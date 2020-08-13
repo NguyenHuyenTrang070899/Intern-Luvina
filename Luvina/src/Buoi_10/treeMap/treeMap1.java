@@ -1,15 +1,11 @@
-package Luvina.Lec5.generic.treeMap;
+package Buoi_10.treeMap;
 import java.util.TreeMap;
-import java.util.Set;
 import java.util.Iterator;
-import java.util.Map;
-/**
- * @author maychu
- */
+
 public class treeMap1 {
    public static void main(String args[]) {
                 // K, V
-       TreeMap<Integer, Book> tmap = new TreeMap<Integer, Book>();          
+      TreeMap<Integer, Book> tmap = new TreeMap<Integer, Book>();
       tmap.put( 1, new Book("Tutorial Java 1.1", "C1", 1990,1));
       tmap.put( 23, new Book("Tutorial Java 1.1", "C1", 1990,12));
       tmap.put( 70, new Book("Tutorial Java 1.1", "C1", 1990,12));

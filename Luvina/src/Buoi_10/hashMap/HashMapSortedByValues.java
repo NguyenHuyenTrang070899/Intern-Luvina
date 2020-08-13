@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Luvina.Lec5.generic.hashMap;
+package Buoi_10.hashMap;
  
 import java.util.Collections;  
 import java.util.Comparator;  
