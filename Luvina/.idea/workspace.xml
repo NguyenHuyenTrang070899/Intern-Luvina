@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="ccdd5cbf-024d-41de-b2b0-ff9efda5f9ca" name="Default Changelist" comment="Bài toán số phức">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_7/B4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_7/B4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Buoi_7/B4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Buoi_7/B4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Luvina/BTVN_B7/DET1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/BTVN_B7/DET1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Luvina/BTVN_B7/DET2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/BTVN_B7/DET2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Luvina/BTVN_B7/DET3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/BTVN_B7/DET3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Luvina/BTVN_B7/DET4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/BTVN_B7/DET4.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,7 +55,7 @@
     <session id="-1845625764">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.32" value="1" />
@@ -69,74 +71,38 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Bangdiem1" value="1" />
-          <entry key="dat" value="1" />
-          <entry key="java" value="89" />
-          <entry key="txt" value="4" />
+          <entry key="dat" value="2" />
+          <entry key="java" value="92" />
+          <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="89" />
-          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="JAVA" value="92" />
+          <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="7723" />
-          <entry key="txt" value="52" />
+          <entry key="java" value="7928" />
+          <entry key="txt" value="93" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7723" />
-          <entry key="PLAIN_TEXT" value="52" />
+          <entry key="JAVA" value="7928" />
+          <entry key="PLAIN_TEXT" value="93" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BTVN_B6/B2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="12" selection-end-line="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/BTVN_B7/DET1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="53" column="35" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BTVN_B7/DET2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BTVN_B7/DET3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Buoi_8/Node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            <state relative-caret-position="85">
+              <caret line="89" column="13" lean-forward="true" selection-start-line="89" selection-start-column="13" selection-end-line="89" selection-end-column="13" />
               <folding>
                 <element signature="e#109#110#0" expanded="true" />
                 <element signature="e#142#143#0" expanded="true" />
@@ -187,15 +153,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BTVN_B7/DET4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -223,6 +180,7 @@
       <find>dinhThuc</find>
       <find>size</find>
       <find>sign</find>
+      <find>Dinhthuc1</find>
     </findStrings>
     <replaceStrings>
       <replace>getReal</replace>
@@ -241,6 +199,7 @@
       <replace>DT</replace>
       <replace>rows</replace>
       <replace>check</replace>
+      <replace>Chua_bai</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -249,9 +208,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/BTVN_B4/A_3.java" />
-        <option value="$PROJECT_DIR$/src/BTVN_B4/A_4.java" />
-        <option value="$PROJECT_DIR$/src/BTVN_B4/B_1.java" />
         <option value="$PROJECT_DIR$/src/BTVN_B4/B_2.java" />
         <option value="$PROJECT_DIR$/src/BTVN_B4/C_5.java" />
         <option value="$PROJECT_DIR$/src/BTVN_B4/C_1.java" />
@@ -300,10 +256,13 @@
         <option value="$PROJECT_DIR$/src/BTVN_B7/DET2.java" />
         <option value="$PROJECT_DIR$/src/BTVN_B7/DET3.java" />
         <option value="$PROJECT_DIR$/src/BTVN_B7/DET4.java" />
+        <option value="$PROJECT_DIR$/src/Array.txt" />
+        <option value="$PROJECT_DIR$/src/Buoi_8/Chua_bai.java" />
+        <option value="$PROJECT_DIR$/src/Buoi_8/DET1_1.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1386" />
@@ -335,12 +294,6 @@
               <item name="Luvina" type="b2602c69:ProjectViewProjectNode" />
               <item name="Luvina" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BTVN_B7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Luvina" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Luvina" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Buoi_8" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -350,10 +303,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596683234451" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596687443716" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Desktop\Intern-Luvina\Intern-Luvina\Luvina\src" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="BTVN_B5" />
     </key>
@@ -370,13 +326,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DET4">
-    <configuration name="DET" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BTVN_B7.DET" />
+  <component name="RunManager" selected="Application.DET1_1">
+    <configuration name="Chua_bai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Buoi_8.Chua_bai" />
       <module name="Luvina" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BTVN_B7.*" />
+          <option name="PATTERN" value="Buoi_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -397,12 +353,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DET2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BTVN_B7.DET2" />
+    <configuration name="DET1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Buoi_8.DET1_1" />
       <module name="Luvina" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BTVN_B7.*" />
+          <option name="PATTERN" value="Buoi_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -437,19 +393,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DET" />
-      <item itemvalue="Application.DET2" />
       <item itemvalue="Application.DET3" />
       <item itemvalue="Application.DET1" />
       <item itemvalue="Application.DET4" />
+      <item itemvalue="Application.Chua_bai" />
+      <item itemvalue="Application.DET1_1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DET1_1" />
+        <item itemvalue="Application.Chua_bai" />
         <item itemvalue="Application.DET4" />
         <item itemvalue="Application.DET3" />
         <item itemvalue="Application.DET1" />
-        <item itemvalue="Application.DET2" />
-        <item itemvalue="Application.DET" />
       </list>
     </recent_temporary>
   </component>
@@ -484,8 +440,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33963692" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -496,7 +451,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295082" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -563,34 +518,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Buoi_3/B2_test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Buoi_2/B5_cach1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BTVN_B3/TT1_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Buoi_3/B3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="22" selection-start-line="11" selection-start-column="16" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Buoi_1/B5_3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-238">
@@ -879,10 +806,65 @@
     <entry file="file://$PROJECT_DIR$/dothi.dat">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/BTVN_B7/DET2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BTVN_B7/DET3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Buoi_8/Chua_bai.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BTVN_B7/DET4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="84" column="45" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="84" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Buoi_8/DET1_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BTVN_B7/DET1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="52" column="22" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Buoi_8/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        <state relative-caret-position="85">
+          <caret line="89" column="13" lean-forward="true" selection-start-line="89" selection-start-column="13" selection-end-line="89" selection-end-column="13" />
           <folding>
             <element signature="e#109#110#0" expanded="true" />
             <element signature="e#142#143#0" expanded="true" />
@@ -929,34 +911,6 @@
             <element signature="e#4640#4641#0" expanded="true" />
             <element signature="e#4671#4672#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BTVN_B7/DET2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BTVN_B7/DET3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BTVN_B7/DET4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BTVN_B7/DET1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="53" column="35" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
         </state>
       </provider>
     </entry>
