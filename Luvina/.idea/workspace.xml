@@ -3,60 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ccdd5cbf-024d-41de-b2b0-ff9efda5f9ca" name="Default Changelist" comment="Bài toán số phức">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/BTVN_B4/C_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/BTVN_B4/C_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/BTVN_B4/C_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/BTVN_B4/C_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/BTVN_B4/C_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/BTVN_B4/C_5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/BTVN_B5/Thuat_toan/B7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/BTVN_B5/Thuat_toan/B7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/BTVN_B6/B1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/BTVN_B6/B1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/BTVN_B6/B2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/BTVN_B6/B2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/BTVN_B6/B4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/BTVN_B6/B4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/BTVN_B6/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/BTVN_B6/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/BTVN_B7/DET1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/BTVN_B7/DET1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/BTVN_B7/DET2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/BTVN_B7/DET2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/BTVN_B7/DET3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/BTVN_B7/DET3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/BTVN_B7/DET4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/BTVN_B7/DET4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/BTVN_B9_B10/B2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/BTVN_B9_B10/B2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/BTVN_B9_B10/B2$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/BTVN_B9_B10/B2$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/BTVN_B9_B10/B2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/BTVN_B9_B10/B2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/BTVN_B9_B10/B3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/BTVN_B9_B10/B3$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/BTVN_B9_B10/B3$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/BTVN_B9_B10/B3$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/BTVN_B9_B10/B3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/BTVN_B9_B10/B3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/BTVN_B9_B10/B6_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/BTVN_B9_B10/B6_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/BTVN_B9_B10/B6_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/BTVN_B9_B10/B6_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/BTVN_B9_B10/Bai_5/TreeMap1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/BTVN_B9_B10/Bai_5/TreeMap1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_10/DemoHashSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_10/DemoHashSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_10/ListBinarySearch$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_10/ListBinarySearch$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_10/ListBinarySearch$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_10/ListBinarySearch$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_10/ListBinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_10/ListBinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_10/PriorityQueueTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_10/PriorityQueueTest$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_10/PriorityQueueTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_10/PriorityQueueTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_10/hashMap/HashMapSortedByValues.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_10/hashMap/HashMapSortedByValues.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_10/hashMap/hashMap1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_10/hashMap/hashMap1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_10/testHashSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_10/testHashSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_10/testTreeSet$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_10/testTreeSet$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_10/testTreeSet$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_10/testTreeSet$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_10/testTreeSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_10/testTreeSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_10/treeMap/TestTreeMapNguoigui$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_10/treeMap/TestTreeMapNguoigui$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_10/treeMap/TestTreeMapNguoigui.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_10/treeMap/TestTreeMapNguoigui.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_10/treeMap/treeMap1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_10/treeMap/treeMap1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_4/B3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_4/B3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_4/B4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_4/B4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_4/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_4/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_4/test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_4/test3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_4/test4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_4/test4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_6/NewClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_6/NewClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_6/TestFinallyBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_6/TestFinallyBlock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_6/TestFinallyBlock1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_6/TestFinallyBlock1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_6/TestFinallyBlock2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_6/TestFinallyBlock2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_7/B3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_7/B3$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_7/B3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_7/B3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_7/B4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_7/B4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_7/B4_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_7/B4_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_8/Chua_bai.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_8/Chua_bai.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_8/DanhSach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_8/DanhSach.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_9/DanhSach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_9/DanhSach.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_9/GenericSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_9/GenericSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_9/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_9/Tree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Luvina/KiemTra/Bai_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/KiemTra/Bai_1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,13 +40,13 @@
       <recent name="BTVN_B5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bai_1">
-    <configuration name="Bai2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KiemTra.Bai2_2" />
+  <component name="RunManager" selected="Application.B1">
+    <configuration name="B1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BTVN_B11.B1" />
       <module name="Luvina" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="KiemTra.*" />
+          <option name="PATTERN" value="BTVN_B11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,8 +54,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bai3_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KiemTra.Bai3_1" />
+    <configuration name="Bai2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KiemTra.Bai2_2" />
       <module name="Luvina" />
       <extension name="coverage">
         <pattern>
@@ -161,18 +108,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Bai2_2" />
-      <item itemvalue="Application.Bai3_1" />
       <item itemvalue="Application.Bai3_2" />
       <item itemvalue="Application.Bai3_3" />
       <item itemvalue="Application.Bai_1" />
+      <item itemvalue="Application.B1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B1" />
         <item itemvalue="Application.Bai_1" />
         <item itemvalue="Application.Bai2_2" />
         <item itemvalue="Application.Bai3_3" />
         <item itemvalue="Application.Bai3_2" />
-        <item itemvalue="Application.Bai3_1" />
       </list>
     </recent_temporary>
   </component>
@@ -216,22 +163,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597727886476" />
-    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1597485162901">
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1597739285437">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597485162901" />
-    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1597485162901">
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597739285437" />
+    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1597739285437">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597485162901" />
-    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1597485162901">
+    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597739285437" />
+    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1597739285437">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597485162901" />
-    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1597485162901">
+    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597739285437" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1597739285437">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597485162901" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597739285437" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1597485146325">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -248,6 +195,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1597485146325" />
+    <state width="522" height="446" key="SwitcherDM" timestamp="1597738511648">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="522" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1597738511648" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
