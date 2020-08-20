@@ -3,7 +3,7 @@ package BTVN_B11;
 import java.util.*;
 
 class Order implements Comparable<Order>{
-    private int idOrder;
+    private Integer idOrder;
     private Date orderDate;
     private String customerID;
     public Order(int idOrder, Date orderDate, String customerID) {
@@ -20,27 +20,14 @@ class Order implements Comparable<Order>{
     public Date getOrderDate() {
         return orderDate;
     }
-    public void setOrderDate(Date orderDate) {
-        this.orderDate = orderDate;
-    }
-    public String getCustomerID() {
-        return customerID;
-    }
-    public void setCustomerID(String customerID) {
-        this.customerID = customerID;
-    }
+
     @Override
     public int compareTo(Order o) {
-        if (idOrder > o.idOrder)
-            return 1;
-        else if (idOrder < o.idOrder)
-            return -1;
-        else
-            return 0;
+        return this.idOrder.compareTo(o.idOrder);
     }
     @Override
     public String toString() {
-        return "Order{" +
+        return "Order {" +
                 "idOrder=" + idOrder +
                 ", orderDate=" + orderDate +
                 ", customerID='" + customerID + '\'' +
@@ -67,33 +54,14 @@ class OrderDetail {
     public void setIdOrder(int idOrder) {
         this.idOrder = idOrder;
     }
-    public int getIdDetail() {
-        return idDetail;
-    }
-    public void setIdDetail(int idDetail) {
-        this.idDetail = idDetail;
-    }
-    public int getItemID() {
-        return itemID;
-    }
-    public void setItemID(int itemID) {
-        this.itemID = itemID;
-    }
-    public int getAmount() {
-        return amount;
-    }
-    public void setAmount(int amount) {
-        this.amount = amount;
-    }
+
     public float getPrice() {
         return price;
     }
-    public void setPrice(float price) {
-        this.price = price;
-    }
+
     @Override
     public String toString() {
-        return "OrderDetail{" +
+        return "OrderDetail {" +
                 "idOrder=" + idOrder +
                 ", idDetail=" + idDetail +
                 ", itemID=" + itemID +
@@ -112,27 +80,17 @@ class Purchase implements Comparable<Purchase> {
         this.purDate = purDate;
         this.supplierID = supplierID;
     }
-    public int getIdPurchase() {
-        return idPurchase;
-    }
-    public void setIdPurchase(int idPurchase) {
-        this.idPurchase = idPurchase;
-    }
+
     public Date getPurDate() {
         return purDate;
     }
     public void setPurDate(Date purDate) {
         this.purDate = purDate;
     }
-    public String getSupplierID() {
-        return supplierID;
-    }
-    public void setSupplierID(String supplierID) {
-        this.supplierID = supplierID;
-    }
+
     @Override
     public String toString() {
-        return "Purchase{" +
+        return "Purchase {" +
                 "idPurchase=" + idPurchase +
                 ", purDate=" + purDate +
                 ", supplierID='" + supplierID + '\'' +
@@ -161,35 +119,18 @@ class PurchaseDetail {
         this.amount = amount;
         this.price = price;
     }
-    public int getIdPurchase() {
-        return idPurchase;
-    }
-    public void setIdPurchase(int idPurchase) {
-        this.idPurchase = idPurchase;
-    }
-    public int getIdDetail() {
-        return idDetail;
-    }
-    public void setIdDetail(int idDetail) {
-        this.idDetail = idDetail;
-    }
-    public int getItemID() {
-        return itemID;
-    }
-    public void setItemID(int itemID) {
-        this.itemID = itemID;
-    }
-    public int getAmount() {
-        return amount;
-    }
-    public void setAmount(int amount) {
-        this.amount = amount;
-    }
+
     public float getPrice() {
         return price;
     }
-    public void setPrice(float price) {
-        this.price = price;
+    public String toString() {
+        return "PurchaseDetail {" +
+                "idPurchase=" + idPurchase +
+                ", idDetail=" + idDetail +
+                ", itemID=" + itemID +
+                ", amount=" + amount +
+                ", price='" + price + '\'' +
+                '}';
     }
 }
 
@@ -207,26 +148,20 @@ class Supplier {
     public String getIdSup() {
         return idSup;
     }
-    public void setIdSup(String idSup) {
-        this.idSup = idSup;
-    }
     public String getName() {
         return name;
     }
     public void setName(String name) {
         this.name = name;
     }
-    public String getAddress() {
-        return address;
-    }
-    public void setAddress(String address) {
-        this.address = address;
-    }
-    public String getTel() {
-        return tel;
-    }
-    public void setTel(String tel) {
-        this.tel = tel;
+
+    public String toString() {
+        return "Supplier {" +
+                "idSup=" + idSup +
+                ", name=" + name +
+                ", tel=" + tel +
+                ", address='" + address + '\'' +
+                '}';
     }
 }
 public class B1 {
@@ -247,7 +182,21 @@ public class B1 {
         ArrayList<OrderDetail> arx1= t.get(new Order(2, new Date("06/8/2020"), "Cus02"));
         System.out.println(arx1);
 
-        //HashMap
+        Order order1 = new Order(10, new Date("06/9/2020"), "Cus10");
+        Iterator<Order> o1 = t.keySet().iterator();
+        while (o1.hasNext()) {
+            Order key = o1.next();
+            if (key.getOrderDate().compareTo(order1.getOrderDate()) == 0) {
+                System.out.print("Search by OrderDate: " + key);
+                System.out.println(t.get(key));
+            }
+            if (key.getIdOrder() == order1.getIdOrder()) {
+                System.out.print("Search by IdOrder: " + key);
+                System.out.println(t.get(key));
+            }
+        }
+
+        //HashMap1
         HashMap<Order, ArrayList<OrderDetail>> h
                 = new  HashMap <Order, ArrayList<OrderDetail>>  ();
         for (int i=1; i<100; i++) {
@@ -259,7 +208,49 @@ public class B1 {
             ar.add(orDetaili2);
             h.put(or, ar);
         }
-        ArrayList<OrderDetail> arx2= t.get(new Order(2, new Date("06/8/2020"), "Cus02"));
+        ArrayList<OrderDetail> arx2= h.get(new Order(2, new Date("06/8/2020"), "Cus02"));
         System.out.println(arx2);
+
+        Order order2 = new Order(9, new Date("06/9/2020"), "Cus09");
+        Iterator<Order> o2 = h.keySet().iterator();
+        while (o2.hasNext()) {
+            Order key = o2.next();
+            if (key.getOrderDate().compareTo(order2.getOrderDate()) == 0) {
+                System.out.print("Search by OrderDate: " + key);
+                System.out.println(h.get(key));
+            }
+            if (key.getIdOrder() == order2.getIdOrder()) {
+                System.out.print("Search by IdOrder: " + key);
+                System.out.println(h.get(key));
+            }
+        }
+
+        //HashMap2
+        HashMap<Supplier, TreeMap<Purchase, ArrayList<PurchaseDetail>>> h2
+                = new HashMap<Supplier, TreeMap<Purchase, ArrayList<PurchaseDetail>>>();
+        for (int i=1; i<100; i++) {
+            Supplier s = new Supplier("Sup0"+ i, "Supplier"+i, "abc123", "123456");
+            Purchase p = new Purchase(1, new Date("15/7/2020"), "Sup"+i);
+            PurchaseDetail pd1 = new PurchaseDetail(i, 1, 3, 100, 1000);
+            PurchaseDetail pd2 = new PurchaseDetail(i, 2, 4, 20, 5000);
+            ArrayList<PurchaseDetail> ar1 = new ArrayList<>();
+            ar1.add(pd1);
+            ar1.add(pd2);
+            TreeMap<Purchase, ArrayList<PurchaseDetail>> t1 = new TreeMap<>();
+            t1.put(p, ar1);
+            h2.put(s, t1);
+        }
+        TreeMap<Purchase, ArrayList<PurchaseDetail>> tm= h2.get(new Supplier("Sup02", "Supplier2", "abc123", "123456"));
+        System.out.println(tm);
+
+        Supplier s1 = new Supplier("Sup03", "Supplier3", "sfhdg", "2345589");
+        Iterator<Supplier> s = h2.keySet().iterator();
+        while (s.hasNext()) {
+            Supplier key = s.next();
+            if (key.getIdSup().compareTo(s1.getIdSup()) == 0) {
+                System.out.print("Search by IdSup: " + key);
+                System.out.println(h2.get(key));
+            }
+        }
     }
 }
