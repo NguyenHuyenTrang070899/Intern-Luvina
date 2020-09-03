@@ -90,11 +90,6 @@ public class B2 {
 
         TradeOrder to1 = new TradeOrder(1, "sc4", "si1", "bi1", new Date("11/01/2020"),10,  120000f);
         TradeOrder to2 = new TradeOrder(2, "sc4", "si2", "bi2", new Date("11/01/2020"), 100, 23000f);
-        
-
-        s4.sellOrder.add(to1);
-        s4.buyOrder.add(to2);
-
 
     }
 }
