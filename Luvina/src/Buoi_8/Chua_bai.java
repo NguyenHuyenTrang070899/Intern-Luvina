@@ -10,7 +10,7 @@ public class Chua_bai {
         //    doc dang text
         double [][]A=null;
         try {
-            FileReader fR= new FileReader("\\Array.txt");
+            FileReader fR= new FileReader("\\Array.dat");
             //Readline;
             BufferedReader bR= new BufferedReader(fR);
             String sLine;

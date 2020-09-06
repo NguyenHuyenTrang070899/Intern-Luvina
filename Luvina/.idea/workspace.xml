@@ -21,14 +21,16 @@
   <component name="ChangeListManager">
     <list default="true" id="ccdd5cbf-024d-41de-b2b0-ff9efda5f9ca" name="Default Changelist" comment="Bài toán số phức">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Luvina.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Luvina.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BTVN_B11/B2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BTVN_B11/B2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KiemTra/Bai2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B12_KiemTra/Bai2_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KiemTra/Bai2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B12_KiemTra/Bai2_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KiemTra/Bai3_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B12_KiemTra/Bai3_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KiemTra/Bai3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B12_KiemTra/Bai3_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KiemTra/Bai3_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B12_KiemTra/Bai3_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KiemTra/Bai_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B12_KiemTra/Bai_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_14/lec8/swingJDBC/view/StudentView$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_14/lec8/swingJDBC/view/StudentView$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_14/lec8/swingJDBC/view/StudentView$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_14/lec8/swingJDBC/view/StudentView$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_14/lec8/swingJDBC/view/StudentView$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_14/lec8/swingJDBC/view/StudentView$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_14/lec8/swingJDBC/view/StudentView$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_14/lec8/swingJDBC/view/StudentView$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_14/lec8/swingJDBC/view/StudentView$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_14/lec8/swingJDBC/view/StudentView$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_14/lec8/swingJDBC/view/StudentView$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_14/lec8/swingJDBC/view/StudentView$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_14/lec8/swingJDBC/view/StudentView$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_14/lec8/swingJDBC/view/StudentView$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_14/lec8/swingJDBC/view/StudentView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_14/lec8/swingJDBC/view/StudentView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_8/Chua_bai.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_8/Chua_bai.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Buoi_8/Chua_bai.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Buoi_8/Chua_bai.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +57,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597336294412" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Buoi_14" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../[sharecode.vn]Caro-3.0-master" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -72,13 +74,13 @@
       <recent name="C:\Users\ASUS\Desktop\Intern-Luvina\Intern-Luvina\Luvina\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StudentView">
-    <configuration name="DAO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Buoi_14.lec8.swingJDBC.controller.DAO" />
+  <component name="RunManager" selected="Application.Caro">
+    <configuration name="Caro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Caro.Caro" />
       <module name="Luvina" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Buoi_14.lec8.swingJDBC.controller.*" />
+          <option name="PATTERN" value="Caro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +88,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Buoi_14.lec8.Main" />
+    <configuration name="Chua_bai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Buoi_8.Chua_bai" />
       <module name="Luvina" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Buoi_14.lec8.*" />
+          <option name="PATTERN" value="Buoi_8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Read" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Caro.Read" />
+      <module name="Luvina" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Caro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,19 +120,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Buoi_14.lec8.swingJDBC.view.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SwingForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Buoi_14.lec8.SwingForm" />
-      <module name="Luvina" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Buoi_14.lec8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,19 +141,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DAO" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.StudentView" />
       <item itemvalue="Application.SwingForm2" />
-      <item itemvalue="Application.SwingForm" />
+      <item itemvalue="Application.StudentView" />
+      <item itemvalue="Application.Caro" />
+      <item itemvalue="Application.Chua_bai" />
+      <item itemvalue="Application.Read" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Caro" />
+        <item itemvalue="Application.Read" />
+        <item itemvalue="Application.Chua_bai" />
         <item itemvalue="Application.StudentView" />
         <item itemvalue="Application.SwingForm2" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.SwingForm" />
-        <item itemvalue="Application.DAO" />
       </list>
     </recent_temporary>
   </component>
@@ -196,32 +198,41 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Bài toán số phức" />
     <option name="LAST_COMMIT_MESSAGE" value="Bài toán số phức" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1598069604958">
+    <state x="450" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599376614915">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598069604958" />
-    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1598089036675">
+    <state x="450" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1599376614915" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599403065106">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598089036675" />
-    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1598089036675">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1599403065106" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1599382660621">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598089036675" />
-    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1598089036675">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599382660621" />
+    <state width="1323" height="134" key="GridCell.Tab.0.bottom" timestamp="1599404173508">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598089036675" />
-    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1598089036675">
+    <state width="1323" height="134" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599404173508" />
+    <state width="1323" height="134" key="GridCell.Tab.0.center" timestamp="1599404173508">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598089036675" />
+    <state width="1323" height="134" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599404173508" />
+    <state width="1323" height="134" key="GridCell.Tab.0.left" timestamp="1599404173508">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="134" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599404173508" />
+    <state width="1323" height="134" key="GridCell.Tab.0.right" timestamp="1599404173508">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="134" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599404173508" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1597485146325">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
