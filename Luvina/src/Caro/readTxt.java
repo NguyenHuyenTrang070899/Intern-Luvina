@@ -1,8 +1,15 @@
 package Caro;
 
 import java.io.*;
+import java.util.Random;
 
 public class readTxt {
+    public static int nextMoveX = RandomInt(20);
+    public static int nextMoveY = RandomInt(20);
+    static Random generator = new Random();
+    public static int RandomInt(int n){
+        return generator.nextInt(n);
+    }
     public static void abc(String luu[][]) {
         try {
             String line;
@@ -51,8 +58,8 @@ public class readTxt {
             for (int i = 0; i < 5; i++) {
                 for (int j = 0; j < 5; j++) {
                     if (a[i][j] == "G" ) {
-                        AI.nextMoveX = i;
-                        AI.nextMoveY = j;
+                        nextMoveX = i;
+                        nextMoveY = j;
                     }
                 }
             }

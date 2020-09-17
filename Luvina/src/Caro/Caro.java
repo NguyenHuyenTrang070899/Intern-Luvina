@@ -126,15 +126,13 @@ public class Caro extends JPanel implements ActionListener {
                             }
                         }
                     } else {
-                        int nextX = AI.nextMoveX;
-                        int nextY = AI.nextMoveY;
                         readTxt r = new readTxt();
                         r.abc(pos);
-                        btn[nextX][nextY].setText("O");
-                        btn[nextX][nextY].setForeground(Color.BLACK);
+                        btn[r.nextMoveX][r.nextMoveY].setText("O");
+                        btn[r.nextMoveX][r.nextMoveY].setForeground(Color.BLACK);
                         diem++;
-                        if (win(nextX, nextY, btn[nextX][nextY].getText())) {
-                            btn[nextX][nextY].setBackground(Color.green);
+                        if (win(r.nextMoveX, r.nextMoveY, btn[r.nextMoveX][r.nextMoveY].getText())) {
+                            btn[r.nextMoveX][r.nextMoveY].setBackground(Color.green);
                             JOptionPane.showMessageDialog(null, "Player 2 win!", "Game Over!", JOptionPane.INFORMATION_MESSAGE);
                             JOptionPane.showMessageDialog(null, "Trò Chơi Mới", "Thoát", JOptionPane.INFORMATION_MESSAGE);
                             for (int i1 = 0; i1 < n; i1++) {

@@ -21,16 +21,12 @@
   <component name="ChangeListManager">
     <list default="true" id="ccdd5cbf-024d-41de-b2b0-ff9efda5f9ca" name="Default Changelist" comment="Bài toán số phức">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_14/lec8/swingJDBC/view/StudentView$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_14/lec8/swingJDBC/view/StudentView$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_14/lec8/swingJDBC/view/StudentView$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_14/lec8/swingJDBC/view/StudentView$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_14/lec8/swingJDBC/view/StudentView$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_14/lec8/swingJDBC/view/StudentView$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_14/lec8/swingJDBC/view/StudentView$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_14/lec8/swingJDBC/view/StudentView$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_14/lec8/swingJDBC/view/StudentView$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_14/lec8/swingJDBC/view/StudentView$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_14/lec8/swingJDBC/view/StudentView$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_14/lec8/swingJDBC/view/StudentView$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_14/lec8/swingJDBC/view/StudentView$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_14/lec8/swingJDBC/view/StudentView$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_14/lec8/swingJDBC/view/StudentView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_14/lec8/swingJDBC/view/StudentView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Buoi_8/Chua_bai.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Buoi_8/Chua_bai.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Buoi_8/Chua_bai.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Buoi_8/Chua_bai.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Caro/AI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Caro/Caro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Caro/Caro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Luvina/Caro/readTxt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Luvina/Caro/readTxt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Caro/AI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Caro/Caro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Caro/Caro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Caro/readTxt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Caro/readTxt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,30 +205,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="450" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1599376614915" />
-    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599403065106">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599405791798">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1599403065106" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1599405791798" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1599382660621">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599382660621" />
-    <state width="1323" height="134" key="GridCell.Tab.0.bottom" timestamp="1599404173508">
+    <state width="1323" height="134" key="GridCell.Tab.0.bottom" timestamp="1599406020692">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="134" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599404173508" />
-    <state width="1323" height="134" key="GridCell.Tab.0.center" timestamp="1599404173508">
+    <state width="1323" height="134" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599406020692" />
+    <state width="1323" height="134" key="GridCell.Tab.0.center" timestamp="1599406020692">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="134" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599404173508" />
-    <state width="1323" height="134" key="GridCell.Tab.0.left" timestamp="1599404173508">
+    <state width="1323" height="134" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599406020692" />
+    <state width="1323" height="134" key="GridCell.Tab.0.left" timestamp="1599406020692">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="134" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599404173508" />
-    <state width="1323" height="134" key="GridCell.Tab.0.right" timestamp="1599404173508">
+    <state width="1323" height="134" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599406020692" />
+    <state width="1323" height="134" key="GridCell.Tab.0.right" timestamp="1599406020692">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="134" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599404173508" />
+    <state width="1323" height="134" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599406020692" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1597485146325">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
